@@ -1,0 +1,3 @@
+== sub adoc
+
+link:./some-file.txt[a relative link that does not work]
